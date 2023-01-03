@@ -1,0 +1,9 @@
+﻿  Sample__code_generation_new.c
+C:\Users\친절한곰탱씨\Desktop\3 - 1\컴파일러설계\Sample__code_generation_new.c(216,7): warning C4101: 'grammar_file_name' :참조되지 않은 지역 변수입니다.
+C:\Users\친절한곰탱씨\Desktop\3 - 1\컴파일러설계\Sample__code_generation_new.c(352,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\친절한곰탱씨\Desktop\3 - 1\컴파일러설계\Sample__code_generation_new.c(1734,14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\친절한곰탱씨\Desktop\3 - 1\컴파일러설계\Sample__code_generation_new.c(1764,10): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\친절한곰탱씨\Desktop\3 - 1\컴파일러설계\Sample__code_generation_new.c(1990,6): warning C4101: 'Yi_has_epsilon' :참조되지 않은 지역 변수입니다.
+C:\Users\친절한곰탱씨\Desktop\3 - 1\컴파일러설계\Sample__code_generation_new.c(1988,12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\친절한곰탱씨\Desktop\3 - 1\컴파일러설계\Sample__code_generation_new.c(1988,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  컴파일러설계_code_generation.vcxproj -> C:\Users\친절한곰탱씨\source\repos\컴파일러설계_code_generation\Debug\컴파일러설계_code_generation.exe

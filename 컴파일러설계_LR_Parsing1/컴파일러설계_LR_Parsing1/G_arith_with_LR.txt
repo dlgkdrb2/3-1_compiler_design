@@ -1,0 +1,14 @@
+// 산술식, with left recursion. 첫 룰은 augmented rule.
+
+S   E   T    F
++   -   *   /   (   )   id   $
+
+S -> E
+E -> T
+E -> E + T
+E -> E - T
+T -> F
+T -> T * F
+T -> T / F
+F -> id
+F -> ( E )

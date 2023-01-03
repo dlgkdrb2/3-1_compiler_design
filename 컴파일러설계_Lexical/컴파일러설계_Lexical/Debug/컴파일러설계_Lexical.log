@@ -1,0 +1,5 @@
+﻿  Lexan.cpp
+C:\Users\친절한곰탱씨\Desktop\3 - 1\컴파일러설계\Lexan.cpp(526,17): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\친절한곰탱씨\Desktop\3 - 1\컴파일러설계\Lexan.cpp(531,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\친절한곰탱씨\Desktop\3 - 1\컴파일러설계\Lexan.cpp(530,7): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+  컴파일러설계_Lexical.vcxproj -> C:\Users\친절한곰탱씨\source\repos\컴파일러설계_Lexical\Debug\컴파일러설계_Lexical.exe

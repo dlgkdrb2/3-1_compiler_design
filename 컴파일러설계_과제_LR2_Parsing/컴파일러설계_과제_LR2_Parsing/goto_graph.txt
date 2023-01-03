@@ -1,0 +1,56 @@
+ID[ 0] (  9) : S -> . E      E -> . T      E -> . E + T      E -> . E - T      T -> . F      T -> . T * F      T -> . T / F      F -> . id      F -> . ( E )      
+ID[ 1] (  9) : F -> ( . E )      E -> . T      E -> . E + T      E -> . E - T      T -> . F      T -> . T * F      T -> . T / F      F -> . id      F -> . ( E )      
+ID[ 2] (  1) : F -> id .     
+ID[ 3] (  3) : S -> E .     E -> E . + T      E -> E . - T      
+ID[ 4] (  3) : E -> T .     T -> T . * F      T -> T . / F      
+ID[ 5] (  1) : T -> F .     
+ID[ 6] (  3) : F -> ( E . )      E -> E . + T      E -> E . - T      
+ID[ 7] (  6) : E -> E + . T      T -> . F      T -> . T * F      T -> . T / F      F -> . id      F -> . ( E )      
+ID[ 8] (  6) : E -> E - . T      T -> . F      T -> . T * F      T -> . T / F      F -> . id      F -> . ( E )      
+ID[ 9] (  3) : T -> T * . F      F -> . id      F -> . ( E )      
+ID[10] (  3) : T -> T / . F      F -> . id      F -> . ( E )      
+ID[11] (  1) : F -> ( E ) .     
+ID[12] (  3) : E -> E + T .     T -> T . * F      T -> T . / F      
+ID[13] (  3) : E -> E - T .     T -> T . * F      T -> T . / F      
+ID[14] (  1) : T -> T * F .     
+ID[15] (  1) : T -> T / F .     
+Total number of states = 16
+
+Goto arcs:
+From   To  Symbol
+   0    1    ( 
+   0    2    id 
+   0    3    E 
+   0    4    T 
+   0    5    F 
+   1    1    ( 
+   1    2    id 
+   1    6    E 
+   1    4    T 
+   1    5    F 
+   3    7    + 
+   3    8    - 
+   4    9    * 
+   4   10    / 
+   6    7    + 
+   6    8    - 
+   6   11    ) 
+   7    1    ( 
+   7    2    id 
+   7   12    T 
+   7    5    F 
+   8    1    ( 
+   8    2    id 
+   8   13    T 
+   8    5    F 
+   9    1    ( 
+   9    2    id 
+   9   14    F 
+  10    1    ( 
+  10    2    id 
+  10   15    F 
+  12    9    * 
+  12   10    / 
+  13    9    * 
+  13   10    / 
+Total number of arcs = 35

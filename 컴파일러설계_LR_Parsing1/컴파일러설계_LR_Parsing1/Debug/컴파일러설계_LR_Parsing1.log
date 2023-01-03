@@ -1,0 +1,16 @@
+﻿  소스.c
+C:\Users\친절한곰탱씨\source\repos\컴파일러설계_LR_Parsing1\컴파일러설계_LR_Parsing1\소스.c(169,6): warning C4101: 'Yi_has_epsilon' :참조되지 않은 지역 변수입니다.
+C:\Users\친절한곰탱씨\source\repos\컴파일러설계_LR_Parsing1\컴파일러설계_LR_Parsing1\소스.c(167,12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\친절한곰탱씨\source\repos\컴파일러설계_LR_Parsing1\컴파일러설계_LR_Parsing1\소스.c(167,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\친절한곰탱씨\source\repos\컴파일러설계_LR_Parsing1\컴파일러설계_LR_Parsing1\소스.c(791,28): warning C4013: 'lexan_mini_grammar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\친절한곰탱씨\source\repos\컴파일러설계_LR_Parsing1\컴파일러설계_LR_Parsing1\소스.c(791,33): error C2440: '=': 'int'에서 'tokentype'(으)로 변환할 수 없습니다.
+C:\Users\친절한곰탱씨\source\repos\컴파일러설계_LR_Parsing1\컴파일러설계_LR_Parsing1\소스.c(793,28): error C2039: 'Kind': 'tkt'의 멤버가 아닙니다.
+C:\Users\친절한곰탱씨\source\repos\컴파일러설계_LR_Parsing1\컴파일러설계_LR_Parsing1\소스.c(14): message : 'tkt' 선언을 참조하십시오.
+C:\Users\친절한곰탱씨\source\repos\컴파일러설계_LR_Parsing1\컴파일러설계_LR_Parsing1\소스.c(799,11): error C2371: 'lexan_mini_grammar': 재정의. 기본 형식이 다릅니다.
+C:\Users\친절한곰탱씨\source\repos\컴파일러설계_LR_Parsing1\컴파일러설계_LR_Parsing1\소스.c(807,6): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\친절한곰탱씨\source\repos\컴파일러설계_LR_Parsing1\컴파일러설계_LR_Parsing1\소스.c(817,9): error C2039: 'Kind': 'tkt'의 멤버가 아닙니다.
+C:\Users\친절한곰탱씨\source\repos\컴파일러설계_LR_Parsing1\컴파일러설계_LR_Parsing1\소스.c(14): message : 'tkt' 선언을 참조하십시오.
+C:\Users\친절한곰탱씨\source\repos\컴파일러설계_LR_Parsing1\컴파일러설계_LR_Parsing1\소스.c(826,11): error C2039: 'Kind': 'tkt'의 멤버가 아닙니다.
+C:\Users\친절한곰탱씨\source\repos\컴파일러설계_LR_Parsing1\컴파일러설계_LR_Parsing1\소스.c(14): message : 'tkt' 선언을 참조하십시오.
+C:\Users\친절한곰탱씨\source\repos\컴파일러설계_LR_Parsing1\컴파일러설계_LR_Parsing1\소스.c(834,9): error C2039: 'Kind': 'tkt'의 멤버가 아닙니다.
+C:\Users\친절한곰탱씨\source\repos\컴파일러설계_LR_Parsing1\컴파일러설계_LR_Parsing1\소스.c(14): message : 'tkt' 선언을 참조하십시오.

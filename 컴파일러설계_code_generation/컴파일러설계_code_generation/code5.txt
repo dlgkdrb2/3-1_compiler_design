@@ -1,0 +1,35 @@
+prog_start:
+t000 = val1 + sum
+xy = t000
+LBL002:
+t002 = 34
+t001 = t002 * vv
+u = t001
+LBL001:
+t004 = 3
+t003 = b + t004
+if a > t003 goto LBL003
+goto LBL000
+LBL003:
+t005 = 11.23
+x = t005
+LBL004:
+t008 = 56
+t009 = 89
+t007 = t008 - t009
+t006 = t007 * y
+p = t006
+goto LBL001
+LBL000:
+t012 = 7.4
+t011 = t012 - u
+t010 = tmp * t011
+if u < t010 goto LBL005
+goto LBL006
+LBL005:
+y = z
+goto prog_end
+LBL006:
+t013 = 12.5
+z = t013
+prog_end:

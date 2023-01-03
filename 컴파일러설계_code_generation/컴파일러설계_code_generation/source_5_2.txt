@@ -1,0 +1,7 @@
+  xy = val1 + sum ;
+  u = 34 * vv ;
+  while ( a > b+3 )  do
+     { x = 11.23 ; p = (56 - 89 )* y   }  ;
+   if ( u < tmp*(7.4-u)) 
+     then   y = z 
+     else z = 12.5

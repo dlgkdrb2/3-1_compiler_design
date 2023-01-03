@@ -1,0 +1,14 @@
+// an arbitrary grammar
+
+S' S A B D
+a b c d $
+
+S' -> S
+S -> A B
+S -> a D
+A -> c
+A -> B c
+B -> b D
+B -> b
+D -> a
+D -> d

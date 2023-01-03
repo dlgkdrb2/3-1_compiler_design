@@ -1,0 +1,10 @@
+﻿  Sample_program_for__LR_parsing_small_grammar.cpp
+C:\Users\친절한곰탱씨\Desktop\3 - 1\컴파일러설계\Sample_program_for__LR_parsing_small_grammar.cpp(181,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\친절한곰탱씨\Desktop\3 - 1\컴파일러설계\Sample_program_for__LR_parsing_small_grammar.cpp(181,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\친절한곰탱씨\Desktop\3 - 1\컴파일러설계\Sample_program_for__LR_parsing_small_grammar.cpp(901,14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\친절한곰탱씨\Desktop\3 - 1\컴파일러설계\Sample_program_for__LR_parsing_small_grammar.cpp(932,10): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\친절한곰탱씨\Desktop\3 - 1\컴파일러설계\Sample_program_for__LR_parsing_small_grammar.cpp(1232,6): warning C4101: 'Yi_has_epsilon' :참조되지 않은 지역 변수입니다.
+C:\Users\친절한곰탱씨\Desktop\3 - 1\컴파일러설계\Sample_program_for__LR_parsing_small_grammar.cpp(1230,12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\친절한곰탱씨\Desktop\3 - 1\컴파일러설계\Sample_program_for__LR_parsing_small_grammar.cpp(1230,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\친절한곰탱씨\Desktop\3 - 1\컴파일러설계\Sample_program_for__LR_parsing_small_grammar.cpp(1391,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  컴파일러설계_과제_LR2_Parsing.vcxproj -> C:\Users\친절한곰탱씨\source\repos\컴파일러설계_과제_LR2_Parsing\Debug\컴파일러설계_과제_LR2_Parsing.exe

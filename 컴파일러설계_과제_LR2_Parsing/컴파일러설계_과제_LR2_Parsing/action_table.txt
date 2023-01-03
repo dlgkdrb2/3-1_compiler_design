@@ -1,0 +1,17 @@
+   	 +	 -	 *	 /	 (	 )	id	 $	
+  0	e	e	e	e	s 1	e	s 2	e	
+  1	e	e	e	e	s 1	e	s 2	e	
+  2	r 7	r 7	r 7	r 7	e	r 7	e	r 7	
+  3	s 7	s 8	e	e	e	e	e	a	
+  4	r 1	r 1	s 9	s10	e	r 1	e	r 1	
+  5	r 4	r 4	r 4	r 4	e	r 4	e	r 4	
+  6	s 7	s 8	e	e	e	s11	e	e	
+  7	e	e	e	e	s 1	e	s 2	e	
+  8	e	e	e	e	s 1	e	s 2	e	
+  9	e	e	e	e	s 1	e	s 2	e	
+ 10	e	e	e	e	s 1	e	s 2	e	
+ 11	r 8	r 8	r 8	r 8	e	r 8	e	r 8	
+ 12	r 2	r 2	s 9	s10	e	r 2	e	r 2	
+ 13	r 3	r 3	s 9	s10	e	r 3	e	r 3	
+ 14	r 5	r 5	r 5	r 5	e	r 5	e	r 5	
+ 15	r 6	r 6	r 6	r 6	e	r 6	e	r 6	

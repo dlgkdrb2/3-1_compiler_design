@@ -1,0 +1,22 @@
+void	Token_idx: 44,  Keyword 
+main	Token_idx: 0,  Identifier   Symtbl_idx =     0
+(	Token_idx: 18,  Symbol 
+void	Token_idx: 44,  Keyword 
+)	Token_idx: 19,  Symbol 
+{	Token_idx: 20,  Symbol 
+printf	Token_idx: 0,  Identifier   Symtbl_idx =     1
+(	Token_idx: 18,  Symbol 
+"Hello, World!10"	Token_idx: 26,  String 
+)	Token_idx: 19,  Symbol 
+;	Token_idx: 25,  Symbol 
+printf	Token_idx: 0,  Identifier   Symtbl_idx =     1
+(	Token_idx: 18,  Symbol 
+'G'	Token_idx: 27,  Character 
+)	Token_idx: 19,  Symbol 
+;	Token_idx: 25,  Symbol 
+printf	Token_idx: 0,  Identifier   Symtbl_idx =     1
+(	Token_idx: 18,  Symbol 
+'39'	Token_idx: 27,  Character 
+)	Token_idx: 19,  Symbol 
+;	Token_idx: 25,  Symbol 
+}	Token_idx: 21,  Symbol 
